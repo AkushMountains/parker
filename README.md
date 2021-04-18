@@ -1,4 +1,5 @@
 HACKRU
+
 Go to config.json and input your Discord Token after downloading the code.
 
 
