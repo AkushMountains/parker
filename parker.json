@@ -1,0 +1,28 @@
+[
+   {
+      "id":"50a48fa3-2c0f-4397-ac50-64da464f9954",
+      "isActive":false,
+      "name":"Bean",
+      "age":3,
+      "breed":"Corgi Mix",
+      "email":"marklovesbean@gmail.com",
+      "address":"Philadelphia",
+      "about":"Looking for a bark!\r\n",
+      "registered":"2015-11-10T01:47:18-00:00",
+      "tags":[
+         "cillum",
+         "consequat",
+         "deserunt",
+         "nostrud",
+         "eiusmod",
+         "minim",
+         "tempor"
+      ],
+      "friends":[
+         {
+            "id":"91b5be3d-9a19-4ac2-b2ce-89cc41884ed0",
+            "name":"Bella Cash"
+         }
+      ]
+   }
+]
