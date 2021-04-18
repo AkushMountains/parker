@@ -29,7 +29,7 @@ async def on_ready():
 
 @client.command()
 async def helper(ctx): 
-      await ctx.send("```Be sure to register your dog first, or else no other commands will work. Delete will remove your dog's entire entry.\nHere's all of the commands for using Parker:\n$register [name] [age] [breed] [gender] [weight]\n$edit [name] [age] [breed] [gender] [weight]\n$checkin [park name]\n$checkout\n$bark\n$parks\n$show [@user]\n$who [@user]\n$parkcount [park name]\n$picture [image link]\n$edit [attribute] [value]\nFor $edit, valid attributes are 'Name', 'Gender', 'Age', 'Weight' or 'Breed'.```")
+      await ctx.send("```Be sure to register your dog first, or else no other commands will work. \nHere's all of the commands for using Parker:\n$register [name] [age] [breed] [gender] [weight]\n$edit [name] [age] [breed] [gender] [weight]\n$checkin [park name]\n$checkout\n$bark\n$parks\n$show [@user]\n$who [@user]\n$parkcount [park name]\n$picture [image link]\n$edit [attribute] [value]\nFor $edit, valid attributes are 'Name', 'Gender', 'Age', 'Weight' or 'Breed'.```")
 
 @client.command()
 async def register(ctx, name, age, breed, gender, weight):
