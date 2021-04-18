@@ -1,6 +1,10 @@
 HACKRU
 
-Go to config.json and input your Discord Token after downloading the code.
+
+Go to your browser and paste this URL to add Parker to your server!
+
+https://discord.com/api/oauth2/authorize?client_id=833088015005777930&permissions=8&scope=bot
+
 
 
 Here's all of the commands for using Parker:
